@@ -1,4 +1,4 @@
-![Deegle](https://github.com/Yunle-Lee/Pics_of_all_my-projects/blob/main/E0DD50BA565C1823E4F7B05BC72FF9AD.jpg)
+![Deegle](https://github.com/Yunle-Lee/Pics_of_all_my-projects/blob/main/46E6D3CE80742C3493AE0EA474DB6E10.jpg)
 # Deegle 
 **Deegle** 是一款集成网页搜索、PDF 预览与 DeepSeek AI 聊天的桌面应用，提供智能搜索、AI 对话、进度血条和用户等级系统，让你的信息检索和日常问答体验更智能、有趣。
 
