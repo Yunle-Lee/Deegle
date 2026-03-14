@@ -1,8 +1,13 @@
-![Deegle](https://github.com/Yunle-Lee/Pics_of_all_my-projects/blob/main/53D179CEEF7574DDAB1B817FFDB0DFF7.jpg)
+![Deegle](https://github.com/Yunle-Lee/Pics_of_all_my-projects/blob/main/E0DD50BA565C1823E4F7B05BC72FF9AD.jpg)
 # Deegle 
 **Deegle** 是一款集成网页搜索、PDF 预览与 DeepSeek AI 聊天的桌面应用，提供智能搜索、AI 对话、进度血条和用户等级系统，让你的信息检索和日常问答体验更智能、有趣。
 
 ---
+## 展示：
+1.输入deepseek api key<br>
+![1](https://github.com/Yunle-Lee/Pics_of_all_my-projects/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-14%20181449.png)<br>
+2.整个控制面板就长这个样子了<br>
+![2](https://github.com/Yunle-Lee/Pics_of_all_my-projects/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-14%20180810.png)<br>
 
 ## 🌟 功能特点
 
